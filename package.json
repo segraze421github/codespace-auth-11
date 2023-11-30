@@ -1,0 +1,12 @@
+{
+  "name": "codespace-auth-11",
+  "version": "1.0.0",
+  "description": "An auth system test in codespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
